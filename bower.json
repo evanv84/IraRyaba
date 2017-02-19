@@ -1,0 +1,17 @@
+{
+  "name": "iraryaba.ru",
+  "authors": [
+    "krem.guru"
+  ],
+  "description": "portfolio site",
+  "main": "",
+  "license": "MIT",
+  "homepage": "index.html",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
